@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.text{
+    height: 400px;
+    width: 900px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    font-size: large;
+}
+
+#quote{
+    /* height: 100px;
+    width: auto; */
+   font-style: italic;
+    margin:50px auto;  
+}
+
+.area{
+    margin: auto;
+    
+    height: 200px;
+    width: 700px;
+}
+
+
+
+#btn{
+    padding: 15px 20px;
+    /* margin:90px auto auto auto; */
+    position: absolute;
+    bottom: 30px;
+    right: 390px;
+}
